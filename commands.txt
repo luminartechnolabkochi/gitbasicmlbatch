@@ -10,3 +10,4 @@ git add -A => adding all changes to staging area
 
 git commit -m "commit message"=> adding staged files to local repository
 
+git remote add luminar git remote add origin  https://github.com/luminartechnolabkochi/gitbasicmlbatch.git
